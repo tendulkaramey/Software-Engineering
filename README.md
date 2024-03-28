@@ -10,4 +10,4 @@ Welcome to Software Engineering Knowledge Base! This repository serves as a cent
 4. **Swiggy**:[Curbing COD Loss With Technology](https://bytes.swiggy.com/curbing-cod-loss-with-technology-ecf554c759a3)
 
 ## Papers
-1.[Designing Access Methods: The RUM Conjecture](https://drive.google.com/file/d/1EeZ4vCy8m0Mb06Z-uc-zbtZfQ30ERF6z/view)
+1.Designing Access Methods: The RUM Conjecture (https://drive.google.com/file/d/1EeZ4vCy8m0Mb06Z-uc-zbtZfQ30ERF6z/view)
